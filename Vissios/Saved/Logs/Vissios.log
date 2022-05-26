@@ -729,3 +729,4 @@ Recommended: 511.79
 [2022.05.26-21.31.54:633][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.05.26-21.31.54:666][  0]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.05.26-21.33.47:007][289]LogDerivedDataCache: C:/Users/Agus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.064 and deleted 0 file(s) with total size 0 MiB.
+[2022.05.26-21.54.16:133][681]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
